@@ -1,4 +1,8 @@
 This project is a basic diet recommendation for mens,women(pregnant,breast feeding), kids. is collect the user data by inputs age,gender,...
+In this Project Includes:
+- Main file as main.py
+- UML diagrams shows all the classes and function.
+- Unit Test to make sure the code run properly.
 
 Copyright (c) 2024 Minh Huy Loi, University Of Wollongong
 
